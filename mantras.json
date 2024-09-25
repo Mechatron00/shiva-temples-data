@@ -1,0 +1,26 @@
+[
+    {
+       
+        name:"शिव तांडव ",
+        src:"https://mechatron00.github.io/shiva-temples-data/assets/pdfs/shiva_tandav.pdf",
+        cover:"https://mechatron00.github.io/shiva-temples-data/assets/covers/shivtandav.png"
+    },
+    {
+       
+        name:"शिव पंचाक्षर स्तोत्र ",
+        src:"https://mechatron00.github.io/shiva-temples-data/assets/pdfs/shiv_panchakshar.pdf",
+        cover:"https://mechatron00.github.io/shiva-temples-data/assets/covers/panchakshari.png"
+    },
+    {
+        
+        name:"काल भैरवाष्टकम",
+        src:"https://mechatron00.github.io/shiva-temples-data/assets/pdfs/kaalbhairavashtakam.pdf",
+        cover:"https://mechatron00.github.io/shiva-temples-data/assets/covers/kaalbharav.png"
+    },
+    {
+        
+        name:"शिव रुद्राष्टकम",
+        src:"https://mechatron00.github.io/shiva-temples-data/assets/pdfs/rudrastkam.pdf",
+        cover:"https://mechatron00.github.io/shiva-temples-data/assets/covers/rudrashtakam.png"
+    }
+]
